@@ -1,0 +1,9 @@
+flask
+earthengine-api
+numpy
+pandas
+tensorflow
+pillow
+scikit-learn
+requests
+joblib
